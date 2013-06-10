@@ -6,3 +6,6 @@
 	{
 		echo $letter .'<br />';
 	}
+
+
+	echo "Let's <a href='welcome.php'>continue</a>.";
